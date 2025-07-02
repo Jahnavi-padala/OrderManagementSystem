@@ -1,6 +1,6 @@
 
 ** Order Management System**
- Project Context
+Project Context
 Order Management System is a comprehensive web application designed to manage the complete lifecycle of customer orders within an organization. It streamlines processes like order placement, invoice generation, and transaction handling, making it easy for businesses to manage and track orders efficiently. The system provides a user-friendly interface and secure API endpoints for handling orders and invoices seamlessly.
 
  Key Features
