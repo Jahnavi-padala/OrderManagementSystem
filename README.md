@@ -5,7 +5,7 @@ Order Management System is a comprehensive web application designed to manage th
 
  Key Features
  User Authentication (If applicable)
-Optional: If you have a login feature.
+: If you have a login feature.
 
 Admin/Staff Login: Authorized staff can log in to manage orders and invoices securely.
 
